@@ -1,0 +1,14 @@
+ body {
+    background-color: gray;
+    font-family: verdana; 
+}
+
+h1 {
+    margin: 50px ;
+    
+}
+
+title {
+font-size:large;
+font-weight:bold;
+}
